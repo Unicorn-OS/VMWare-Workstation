@@ -1,6 +1,7 @@
 https://www.google.com/search?q=vmware+workstation+arbitration+service+linux
 
-# Gemini AI
+# Enable:
+**Gemini AI**
 >The VMware USB Arbitration Service (vmware-usbarbitrator.service) in Linux is a crucial component of VMware Workstation and Player, responsible for managing USB device access between the host system and guest virtual machines.
 
 
@@ -8,3 +9,6 @@ https://www.google.com/search?q=vmware+workstation+arbitration+service+linux
 sudo systemctl status vmware-usbarbitrator.service
 sudo systemctl start vmware-usbarbitrator.service
 ```
+
+# Install:
+https://www.google.com/search?q=vmware+workstation+arbitration+service+linux+install
